@@ -1,0 +1,35 @@
+.Navigation {
+    height: 3.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+  }
+  
+  .Navigation nav {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Navigation ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Navigation li {
+    padding: 0;
+    margin: 0 2rem;
+  }
+  
+  .Navigation a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,8 @@
+.Cards{
+    margin-top: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 5px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+}
